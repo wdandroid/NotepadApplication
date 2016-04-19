@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         
         // hell
         hello();
-
+        hello();//add by wd
         //
     }
 
